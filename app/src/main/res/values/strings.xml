@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Internshala</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--Sign in fragment-->
+    <string name="email_hint">E-mail</string>
+    <string name="pwd_hint">Password</string>
+    <string name="signinButton">LOG IN</string>
+    <string name="signupButton">SIGN UP</string>
+    <string name="signup">Sign up</string>
+    <string name="donthaveanaccount">Don\'t have an account?</string>
+    <!--Sign up fragment-->
+    <string name="enter_email">Enter Email</string>
+    <string name="alreadyhaveanaccount">Already have an account?</string>
+    <string name="login">Log in</string>
+    <string name="cnfpwd">Confirm Password</string>
+    <string name="or">OR</string>
+
+    <!--MainActivity Menu-->
+    <string name="menu_signin">Sign-in</string>
+    <string name="menu_signup">Sign-up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
